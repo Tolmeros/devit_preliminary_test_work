@@ -20,7 +20,7 @@
 3. [js/03_bulkRun.js](js/03_bulkRun.js) : fail, question
 4. [js/04_calcMatrix.js](js/04_calcMatrix.js) : ok
 5. [js/05_arrayToObject.js](js/05_arrayToObject.js) : ok
-6. [js/06_getBase64FromUrl.js](js/06_getBase64FromUrl.js) : none
+6. [js/06_getBase64FromUrl.js](js/06_getBase64FromUrl.js) : ok
 7. [js/07_objectToArray.js](js/07_objectToArray.js) : ok
 8. [js/08_nodeChildCount.js](js/08_nodeChildCount.js) : ok
 9. [js/09_removeDuplicate.js](js/09_removeDuplicate.js) : fail, question
