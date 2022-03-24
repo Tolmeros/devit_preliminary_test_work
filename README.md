@@ -22,6 +22,6 @@
 5. [js/05_arrayToObject.js](js/05_arrayToObject.js) : ok
 6. [js/06_getBase64FromUrl.js](js/06_getBase64FromUrl.js) : none
 7. [js/07_objectToArray.js](js/07_objectToArray.js) : ok
-8. [js/08_nodeChildCount.js](js/08_nodeChildCount.js) : none
+8. [js/08_nodeChildCount.js](js/08_nodeChildCount.js) : ok
 9. [js/09_removeDuplicate.js](js/09_removeDuplicate.js) : fail, question
 10. [js/10_reliableMultiply.js](js/10_reliableMultiply.js) : ok
