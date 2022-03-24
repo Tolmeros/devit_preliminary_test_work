@@ -17,7 +17,7 @@
 
 1. [js/01_deepEqual.js](js/01_deepEqual.js) : ok
 2. [js/02_chunkArray.js](js/02_chunkArray.js) : ok
-3. [js/03_bulkRun.js](js/03_bulkRun.js) : fail, question
+3. [js/03_bulkRun.js](js/03_bulkRun.js) : ok
 4. [js/04_calcMatrix.js](js/04_calcMatrix.js) : ok
 5. [js/05_arrayToObject.js](js/05_arrayToObject.js) : ok
 6. [js/06_getBase64FromUrl.js](js/06_getBase64FromUrl.js) : ok
